@@ -28,4 +28,4 @@ This project is a simple yet powerful *Spam Detection System* built using Machin
 ## ✅ Example:
 ```python
 print(predict_spam("Congratulations! You have won a free ticket."))
-# Output: Spa
+# Output: Spam
